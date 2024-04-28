@@ -1,0 +1,117 @@
+/* CSS Reset */
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul li {
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+    color: #111111;
+}
+
+button {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+/* Custom CSS */
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+
+}
+
+p {
+    font-size: 13px;
+}
+
+#wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#container {
+    max-width: 400px;
+    background-color: hsl(0, 0%, 12%);
+    padding: 2em;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.socials {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+}
+
+.avatar {
+    border-radius: 450px;
+    width: 25%;
+
+}
+
+.address {
+    padding: 12px 0;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 0.6em;
+}
+
+.city {
+    color: hsl(75, 94%, 57%);
+    margin-bottom: 1.3em;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.socials {
+    margin-top: 1em;
+}
+
+.socials button {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    padding: 0.8em 0.5em;
+    border-radius: 8px;
+    box-shadow: none;
+    font-weight: bold;
+
+}
+
+button:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+    cursor: pointer;
+}
+
+.attribution {
+    padding: 2em;
+    font-size: 10px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
