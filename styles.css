@@ -105,13 +105,3 @@ button:hover {
     color: hsl(0, 0%, 8%);
     cursor: pointer;
 }
-
-.attribution {
-    padding: 2em;
-    font-size: 10px;
-    text-align: center;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
