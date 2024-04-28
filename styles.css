@@ -90,7 +90,7 @@ p {
     margin-top: 1em;
 }
 
-.socials button {
+button {
     color: hsl(0, 0%, 100%);
     background-color: hsl(0, 0%, 20%);
     padding: 0.8em 0.5em;
