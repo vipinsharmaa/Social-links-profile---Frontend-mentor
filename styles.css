@@ -97,6 +97,7 @@ p {
     border-radius: 8px;
     box-shadow: none;
     font-weight: bold;
+    font-family: inherit;
 
 }
 
