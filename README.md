@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vipinsharmaa/Social-links-profile---Frontend-mentor)
-- Live Site URL: [Add live site URL here](https://vipinsharmaa.github.io/Social-links-profile---Frontend-mentor/)
+- Solution URL: [https://github.com/vipinsharmaa/Social-links-profile---Frontend-mentor]
+- Live Site URL: [https://vipinsharmaa.github.io/Social-links-profile---Frontend-mentor/]
 
 ## My process
 
@@ -33,6 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Twitter - [@yourusername](https://twitter.com/codecrash007)
+- Twitter - [@codecrash007](https://twitter.com/codecrash007)
 
