@@ -15,7 +15,8 @@ ul li {
 
 a {
     text-decoration: none;
-    color: #111111;
+    outline: none;
+    color: white;
 }
 
 button {
@@ -91,18 +92,18 @@ p {
     margin-top: 1em;
 }
 
-button {
-    color: hsl(0, 0%, 100%);
+ul li a {
+    display: block;
     background-color: hsl(0, 0%, 20%);
-    padding: 0.8em 0.5em;
-    border-radius: 8px;
-    box-shadow: none;
+    padding: 0.95rem 0;
+    border-radius: 0.4rem;
+    transition: all 350ms ease-in-out;
     font-weight: bold;
-    font-family: inherit;
+
 
 }
 
-button:hover {
+a:hover {
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 8%);
     cursor: pointer;
